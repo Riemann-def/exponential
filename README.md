@@ -1,38 +1,36 @@
 ## About Markel
 
-A short 3-5-line bio: who you are, what you do, and what excites you.
+AI Engineer from Bilbao, Spain. I love building things from scratch—whether it's a ticketing platform, an AI-powered document system, or a real-time event recognition app. Endlessly curious and always eager to ride the wave of what's next in software and AI. First graduating class of the AI degree at UPV/EHU.
 
 ### Main Achievements
 
-- **Achievement 1.** Brief description + outcome/metric (link if possible).  
-- **Achievement 2.** …  
-- **Achievement 3.** …
+- **Wippass.** Built a complete digital ticketing platform from scratch with Python and Kubernetes autoscaler based on demand. Handled €25k+ in transactions, multiple sold-out events (900+ attendees), and featured in El Referente magazine.
+- **Belasai.** Developed a grant-winning employee wellness platform for a client using TypeScript, Python, PostgreSQL, fully deployed on AWS with monitoring and automated scaling. [belasai.es](https://belasai.es)
+- **DocMind.** Led development of an LLM-based document extraction solution at Devol RPA, reducing manual processing time by 85% for enterprise clients.
 
 ### Most-Prideful Builds
 
 | Project | Your role & stack | Impact / Demo |
 |---------|-------------------|---------------|
-| **Build 1** | e.g. Solo dev • TypeScript + Next.js | <https://demo-link.com> — 2k MAU, PH #3 Product of the Day |
-| **Build 2** | e.g. Backend lead • Go + gRPC | Saved 30 % infra cost for 40 clients |
-| **Build 3** | e.g. Mobile dev • Flutter | [App Store](https://apps.apple.com/…) • 4.8★ (1 k reviews) |
-
-> *Tip: keep this zero-effort for reviewers—live links over videos; videos over downloads.*
+| **Wippass** | Founder & Solo dev • Python, Kubernetes | €25k+ transactions, 900+ attendees per event, featured in El Referente |
+| **Belasai** | Freelance dev • TypeScript, Python, PostgreSQL, AWS | Grant-winning MVP • [belasai.es](https://belasai.es) |
+| **Legacy Vault** (WIP) | Solo dev • ASR, Python, real-time event detection | Real-time anecdote/event recognition system storing memories in a personal vault |
 
 ### Experience (TL;DR)
 
-- **Role / Company** – *Date range.* One-line impact description, notable tech.  
-- **Role / Company** – …  
-- **Hackathons / OSS / Volunteering** – …
+- **Mid Software Engineer / Multiverse Computing** – *Oct 2025 - Present.* Maintaining core product code at a CB Insights Top 100 AI company specializing in LLM compression and quantum-inspired optimization.
+- **Data & AI Engineer / Devol RPA** – *Jul 2024 - Oct 2025 (1y 4m).* Led DocMind development, built RAG-based NL2SQL system, established MLOps practices reducing deployment time by 70%.
+- **Founder / Wippass** – *Mar 2023 - Jul 2024.* Built and scaled a ticketing platform from zero.
 
 ---
 
 ## How I Work
 
-- **Gets me pumped:** <!-- shipping fast, kind builders, user delight … -->
-- **Disappoints me:** <!-- apathy, big egos, over-engineering … -->
-- **Strengths:** <!-- rapid prototyping, clear docs, … -->
-- **Improvement points:** <!-- candor, delegation, … -->
-- **Known behaviours / comms style:** <!-- emoji-heavy 🙌, async-first, inbox-zero … -->
+- **Gets me pumped:** Shipping fast, building with kind and driven people, seeing users genuinely delighted by something I made.
+- **Disappoints me:** Apathy, big egos, over-engineering simple problems.
+- **Strengths:** Rapid prototyping, full-stack ownership, turning ideas into production-ready products quickly.
+- **Improvement points:** Sometimes move too fast and skip documentation, working on being more deliberate with async communication.
+- **Known behaviours / comms style:** Direct and action-oriented, prefer quick calls over long threads, iterate in the open.
 
 ---
 
@@ -40,12 +38,11 @@ A short 3-5-line bio: who you are, what you do, and what excites you.
 
 ### Some personal stuff
 
-Feel free to check out [this page](https://gulipad.notion.site/This-is-Guli-fbf0f0b4eec54b868a7d92933ad0383a?pvs=74) for inspiration
-
-- Hobbies, sports, creative outlets.  
-- Values / worldview.  
-- Fun facts or personal links (blog, portfolio, socials).
+- **Professional DJ:** Performed at events with up to 1,000 attendees in Bilbao venues (2019-2024).
+- **Football:** Selected for Bizkaia Regional Selection Team representing the region in competitions (2019).
+- **Languages:** Spanish (Native), Basque (Native), English, French (A2).
+- **Portfolio:** [markelramiro.com](https://markelramiro.com)
 
 ### My vision
 
-Why you want the Exponential Fellowship, where you see yourself in 5 years, and how building in the US fits the plan.
+I want to build products that matter at the intersection of AI and real human needs. The Exponential Fellowship is the perfect launchpad to connect with ambitious builders, learn from world-class mentors, and ship impactful products in the US market. In 5 years, I see myself leading engineering at a high-growth AI startup or building my own company.
